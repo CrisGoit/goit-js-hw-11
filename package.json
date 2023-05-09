@@ -2,17 +2,17 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://anfa2091.github.io/goit-js-hw-11/",
+  "homepage": "https://CrisGoit.github.io/goit-js-hw-11/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anfa2091/goit-js-hw-11.git"
+    "url": "git+https://github.com/CrisGoit/goit-js-hw-11.git"
   },
   "keywords": [],
-  "author": "Antony Fabian Cordoba Patiño <anfa2091@gmail.com>",
+  "author": "Cristhian Medina <medinacristhian279@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/anfa2091/goit-js-hw-11/issues"
